@@ -1,5 +1,3 @@
-import { CardData } from '../types';
-
 export interface HistoryItem extends CardData {
     id: string; // Unique ID (uuid or timestamp)
     createdAt: number; // Timestamp

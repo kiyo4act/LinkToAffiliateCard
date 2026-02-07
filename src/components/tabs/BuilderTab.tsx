@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { CardData, ShopItem, AppConfig } from '../../types';
+import { CardData, AppConfig } from '../../types';
 import { BuilderHeader } from '../ui/BuilderHeader';
 import { CardPreview } from '../ui/CardPreview';
 import { ShopList } from '../ui/ShopList';

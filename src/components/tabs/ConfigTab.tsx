@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { generateBlogCss, DEFAULT_CSS_CONFIG, CssConfig } from '../../lib/cssGenerator';
-import { Check, Copy, RefreshCw, Save } from 'lucide-react';
+import { Check, Copy, RefreshCw } from 'lucide-react';
 import { AppConfig } from '../../types';
 
 interface ConfigTabProps {
