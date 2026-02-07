@@ -38,3 +38,4 @@ npm-debug.log*
 # AI agent files
 .agent/
 docs/
+.claude/
